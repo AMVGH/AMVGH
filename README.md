@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year student at Kennesaw State University currently persuing a B.S. in Software Engineering. I am passionate about sharpening my skills through project-based learning and focusing the skills I've acquired through my entreprenurial ventrues in the automotive industry to my relationnships in tech.
+I am a second-year student at Kennesaw State University currently persuing a B.S. in Software Engineering. I am passionate about sharpening my skills through project-based learning and focusing the skills I've acquired through my entreprenurial ventures in the automotive industry to my relationnships in tech.
 
 
 ## 🌐 Socials:
