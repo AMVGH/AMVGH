@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fourth-year student at Kennesaw State University currently persuing a B.S. in Software Engineering. I am passionate about sharpening my skills through project-based learning and focusing the skills I've acquired through my entreprenurial ventures in the automotive industry to my relationships in tech.
+I’m someone who learns best by building things and figuring them out through hands‑on projects. Before getting into tech, I spent years running and growing automotive ventures, which shaped how I approach problem‑solving, working with people, and staying adaptable. Now I’m exploring how I want to grow my career in the tech space and enjoying the process.
 
 
 ## 🌐 Connect With Me:
